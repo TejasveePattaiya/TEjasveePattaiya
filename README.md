@@ -1,3 +1,4 @@
+![logo](https://github.com/TejasveePattaiya/TEjasveePattaiya/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Tejasvee Pattaiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
